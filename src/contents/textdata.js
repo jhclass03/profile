@@ -40,5 +40,5 @@ export const projects=[
     {title:"두더지게임", date:"2025.04", sub:"옛날 레트로한 느낌을 살려 제작해본 미니언즈 잡기 게임", desc:["- JavaScript를 이용한 두더지 게임 제작","- 시간초에 제한을 두어 게임이 진행되도록 설정","- 마우스 이벤트 변경하여 통일감을 만듬"], code:"https://github.com/qhfka0090/game", type:"HTML, CSS, JavaScript", demo:"https://qhfka0090.github.io/game/" },
     {title:"카드맞추기게임", date:"2025.04", sub:"기억력을 높이는 카드 짝 맞추기 게임", desc:["- JavaScript르를 이용한 카드 맞추기 게임 제작","- ","- "], code:"https://github.com/qhfka0090/cardgame", type:"HTML, CSS, JavaScript", demo:"https://qhfka0090.github.io/cardgame/" },
     {title:"인바디", date:"2025.04", sub:"육각형의 모양으로 나의 균형을 확인할 수 있는 인바디", desc:["- React를 사용하여 인바디 사이트 제작","- chart를 사용하여 목표 설정","- chart 안 다양한 기능을 활용하여 육각형의 값 설정"], code:"https://github.com/qhfka0090/inbody", type:"React, React-chart", demo:"https://qhfka0090.github.io/inbody/" },
-    {title:"날씨APP", date:"2025.04", sub:"지역의 날씨를 한눈에 알아볼수 있는 Vue App", desc:["- ","- ","- "], code:"깃허브코드사이트", type:"Vue", demo:"데모사이트" },
+    {title:"profile", date:"2025.08", sub:"나만의 포트폴리오", desc:["- ","- ","- "], code:"깃허브코드사이트", type:"Vite", demo:"데모사이트" },
 ]
